@@ -1,16 +1,10 @@
-# sky_scrapper_one
+# Currency Convertor
 
-A new Flutter project.
+Convertor
 
-## Getting Started
+## ScreenShot
 
-This project is a starting point for a Flutter application.
+<img src = "https://user-images.githubusercontent.com/122794880/218811334-1cd218c9-bb58-4dbf-879d-1e97cf4d960e.jpeg" height="500px"/> |
+<img src = "https://user-images.githubusercontent.com/122794880/218811393-676e0537-c6d4-4812-952f-1bbf6e476906.jpeg" height="500px"/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
